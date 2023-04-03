@@ -2,7 +2,7 @@
 #define NULL 0
 
 /**
- * _strchr - function 
+ * _strchr - function .
  * @s: string to search
  * @c: target characer
  * Return: pointer to that character in string
