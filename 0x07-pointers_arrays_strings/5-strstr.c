@@ -2,10 +2,10 @@
 #define NULL 0
 
 /**
- * _strstr - function .
+ * _strstr - function that locates a substring.
  * @haystack: string to search
  * @needle: target substring to search for
- * Return: pointer 
+ * Return: pointer to index of string at first occurence of whole substring
  */
 
 char *_strstr(char *haystack, char *needle)
