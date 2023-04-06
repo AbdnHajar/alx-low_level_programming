@@ -2,7 +2,7 @@
 
 /**
  * is_prime - recursively divide by higher divisor, skip even nums
- * @n: number to check 
+ * @n: number to check if prime
  * @divisor: divisor
  * Return: 1 if prime, 0 if not, or recursive function call
  */
@@ -18,10 +18,10 @@ int is_prime(int n, int divisor)
 }
 
 /**
- * is_prime_number - function that returns 1 if the input is integer
+ * is_prime_number - function that returns 1 if the input integer
  * is a prime number, otherwise return 0.
  * @n: number to check
- * Return: 1 if prime and 0 if not
+ * Return: 1 if prime, 0 if not
  */
 
 int is_prime_number(int n)
