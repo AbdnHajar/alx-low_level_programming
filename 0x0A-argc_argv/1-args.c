@@ -5,7 +5,7 @@
  * main - program that prints the number of arguments passed into it.
  * @argc: argument counter
  * @argv: pointer to array of arguments
- * Return: 0 if everthing is right  
+ * Return: 0 on success  
  */
 
 int main(int argc, char *argv[] _attribute_((unused)))
